@@ -122,7 +122,7 @@ const Create = () => {
   return (
     <>
       <View style={styles.container}>
-        <Text style={styles.headTodo}>Add Todo</Text>
+        <Text style={styles.headTodo}>Add Todo...</Text>
         <View>
           <TextInput
             style={styles.inputTodo}
